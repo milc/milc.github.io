@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body{color:#474a54;font:100% Lato,Tahoma,Geneva,sans-serif;font-weight:300;height:100%;margin:0;min-height:100%;padding:0}
+::-moz-selection{background:#393941;color:#fff}
+::selection{background:#393941;color:#fff}
+h1,h2,h3,h4,h5{font-weight:400}
+a,a:active,a:hover,a:link,a:visited{color:#e6567a;text-decoration:none}
+a:hover{color:#393941}
+.introduction{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:98vh; font-size:1.5rem;}
+.introduction h1{ margin:.5rem 0 .15rem 0;}
+.introduction h2{ margin:.35rem 0 1.5rem 0; color:#f8f2f4;font-size:1.7rem}
+.introduction a{font-size: 3rem;}
+.layout-color4{background:url(../../assets/images/triangle6bis.png) 50% 50% repeat-x #e59daf}
+.layout-color4 a,.layout-color4 a:active,.layout-color4 a:link,.layout-color4 a:visited,.layout-color4 h1{color:#fff}
+.layout-color4 a:hover{color:#e6567a}

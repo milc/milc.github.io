@@ -1,0 +1,25 @@
+@font-face{font-family:milc-icons;src:url(../fonts/milc-icons.eot?afgq6e);src:url(../fonts/milc-icons.eot?#iefixafgq6e) format("embedded-opentype"),url(../fonts/milc-icons.woff?afgq6e) format("woff"),url(../fonts/milc-icons.ttf?afgq6e) format("truetype"),url(../fonts/milc-icons.svg?afgq6e#icomoon) format("svg");font-weight:400;font-style:normal}
+[class*=" icon-milc-"],[class^=icon-milc-]{font-family:milc-icons;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-transition:color .5s;-moz-transition:color .5s;-ms-transition:color .5s;-o-transition:color .5s}
+.icon-milc-behance:before{content:"\e606"}
+.icon-milc-down:before{content:"\e607"}
+.icon-milc-linkedin:before{content:"\e608"}
+.icon-milc-logo:before{content:"\e609"}
+.icon-milc-twitter:before{content:"\e60a"}
+.icon-milc-viadeo:before{content:"\e60b"}
+.icon-milc-home3:before{content:"\e902"}
+.icon-milc-training2:before{content:"\e600"}
+.icon-milc-profile:before{content:"\e923"}
+.icon-milc-project2:before{content:"\e601"}
+.icon-milc-project:before{content:"\e602"}
+.icon-milc-display:before{content:"\e956"}
+.icon-milc-laptop:before{content:"\e957"}
+.icon-milc-mobile:before{content:"\e958"}
+.icon-milc-mobile2:before{content:"\e959"}
+.icon-milc-tablet:before{content:"\e95a"}
+.icon-milc-bubbles3:before{content:"\e96f"}
+.icon-milc-training:before{content:"\e603"}
+.icon-milc-code:before{content:"\e604"}
+.icon-milc-clipboard:before{content:"\e9b8"}
+.icon-milc-menu:before{content:"\e9bd"}
+.icon-milc-link:before{content:"\e9cb"}
+.icon-milc-code2:before{content:"\e605"}
